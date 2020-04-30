@@ -14,7 +14,7 @@ body {
   -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   box-shadow: 15px 15px 20px lime, -15px -15px 47px aqua;
   border: 15px solid white;
-  border-bottom: 60px solid white;
+  border-bottom: 20px solid white;
 }
 
 .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
